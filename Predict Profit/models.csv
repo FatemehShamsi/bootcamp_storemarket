@@ -1,0 +1,6 @@
+Model,R2 Score,MSE,RMSE,MAE
+XGBRegressor,0.75,0.0208,0.1443,0.0914
+ExtraTreesRegressor,0.7484,0.021,0.1448,0.0967
+RandomForestRegressor,0.727,0.0227,0.1508,0.0995
+HistGradientBoostingRegressor,0.7263,0.0228,0.151,0.1024
+AdaBoostRegressor,0.6413,0.0299,0.1729,0.1315
