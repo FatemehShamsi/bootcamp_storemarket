@@ -6,6 +6,7 @@ The Super Store Dashboard project is a comprehensive data analytics and visualiz
 
 
 Dimension Creation:
+
 **Dim Geography**: This dimension focuses on geographical attributes relevant to the Super Store. It includes information such as country, region, city and other location-related data. The purpose is to enable geographic-based analysis and segmentation of sales, customer behavior, and performance.
 
 **Dim DateTime**: The Dim DateTime dimension plays a critical role in time-based analysis. It encompasses various temporal attributes, including date, month, year and day of the week.
@@ -13,7 +14,7 @@ Dimension Creation:
 **Dim Product**: This dimension is dedicated to product-related attributes. It consolidates information about the products sold at the Super Store, such as product category and product sub-category brand
 
 **Dim Customer**: The Dim Customer dimension is essential for customer-centric analysis. It contains customer-specific attributes like customer ID, name, family and segment.
-![Alt Text](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/91158d3f-ac3a-4327-a751-e57253e5b3b5)
+![data](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/a4e7bd05-f9ac-4334-80fb-0360f9a44eaf)
 
 
 ## Dashboard
@@ -21,13 +22,13 @@ Dimension Creation:
 In this picture, you can see a few pages of our Dashboard
 
 
-![Alt Text](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/cbd3609e-cb28-46c5-bf1b-16b4114bb4b3)
+![Dash1](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/c0bd4f96-292e-4344-b22a-de8d09c1054e)
 
 
-![Alt Text](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/ad40927c-b21d-4281-a693-912e0d9eb800)
+![Dash2](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/d16eb5a7-b9f0-4688-944a-0beb0ad31132)
 
 
-![Alt Text](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/b2bdeebc-25b5-42c1-ab06-397fa68329b0)
+![Dash3](https://github.com/FatemehShamsi/bootcamp_storemarket/assets/71564714/ed116811-1348-4546-829d-89978b860e5c)
 
 ## Collaboration
 
